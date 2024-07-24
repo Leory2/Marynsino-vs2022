@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno Noite\\source\\repos\\Marynsino2513\\Marynsino2513.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022\\Marynsino2513.csproj",
       "projectName": "Marynsino2513",
-      "projectPath": "C:\\Users\\Aluno Noite\\source\\repos\\Marynsino2513\\Marynsino2513.csproj",
+      "projectPath": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022\\Marynsino2513.csproj",
       "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno Noite\\source\\repos\\Marynsino2513\\obj\\",
+      "outputPath": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",
